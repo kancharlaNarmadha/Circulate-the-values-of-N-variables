@@ -8,14 +8,10 @@ Anaconda - Python 3.7
 ### Step 1: 
 Get the two values from the user
 ### Step 2: 
-Assign the value of second variable to a temporary variable
+Get the value from the user for the number of rotation
 ### Step 3: 
-Assign the value of the first variable to the second variable
+Using the slicing concept rotate the list
 ### Step 4: 
-Assign the value in temporary variable to the first variabl
-### Step 5: 
-Print both the values it would be interchanged
-### Step 6: 
 End the program
 ## Program:
 ```
